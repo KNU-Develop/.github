@@ -1,6 +1,6 @@
 # 개발자 강냉이들의 저장소 입니다.
 
-### 2024-2 K프로젝트 : 오늘 회의 (Today Scrum)
+### 2024-2 K프로젝트 I : 오늘 회의 (Today Scrum)
 + [FE](https://github.com/KNU-Develop/projectbuilder-frontend)<br/>
 + [BE](https://github.com/KNU-Develop/projectbuilder-backend)<br/><br/>
 
