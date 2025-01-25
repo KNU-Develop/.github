@@ -6,4 +6,5 @@
 
 ### 2024-2 자기주도프로젝트 II : 오늘 옷 (Today Clothes)
 + [FE](https://github.com/KNU-Develop/todayclothes-frontend)<br/>
-+ [BE](https://github.com/KNU-Develop/todayClothes-backed)<br/><br/>
++ [BE](https://github.com/KNU-Develop/todayClothes-backed)<br/>
++ [AI](https://github.com/KNU-Develop/todayclothes-ai)<br/><br/>
